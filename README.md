@@ -1,3 +1,3 @@
 # Instagram Login Webpage
 
-This project was made by using CSS3.
+This project is a recriation of Instagram login webpage and it was made by using CSS3 only.
